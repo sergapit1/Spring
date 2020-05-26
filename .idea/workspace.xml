@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b9f065-e12e-4644-9d29-78eba4bf1443" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/by/sergapit/javaspring/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/sergapit/javaspring/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590525231559</updated>
-      <workItem from="1590525237630" duration="4226000" />
+      <workItem from="1590525237630" duration="5650000" />
     </task>
     <task id="LOCAL-00001" summary="springg">
       <created>1590526480472</created>
@@ -112,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590529135927</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dependency Injection">
+      <created>1590529706570</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590529706570</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,44 +134,45 @@
     <MESSAGE value="springgg" />
     <MESSAGE value="spring2" />
     <MESSAGE value="spring3" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring3" />
+    <MESSAGE value="Dependency Injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="149" key="#Notifications" timestamp="1590526773296">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="232" y="149" key="#Notifications/0.0.1280.984@0.0.1280.984" timestamp="1590526773296" />
-    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1590528542125">
+    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1590530653399">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1590528542125" />
+    <state x="445" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1590530653399" />
     <state x="370" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590528329485">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="370" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1590528329485" />
-    <state x="265" y="85" key="CommitChangelistDialog2" timestamp="1590529133208">
+    <state x="265" y="85" key="CommitChangelistDialog2" timestamp="1590529704439">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="265" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1590529133208" />
-    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1590529661436">
+    <state x="265" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1590529704439" />
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1590531093979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1590529661436" />
-    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1590529661436">
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
+    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1590531093979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1590529661436" />
-    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1590529661436">
+    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
+    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1590531093979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1590529661436" />
-    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1590529661436">
+    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
+    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1590531093979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1590529661436" />
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1590529138498">
+    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1590529711976">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1590529138498" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1590529711976" />
   </component>
 </project>
