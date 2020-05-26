@@ -8,9 +8,9 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-    <bean id="testBean"
-          class="by.sergapit.javaspring.TestBean">
-        <constructor-arg value="Sergey"/>
+    <bean id="musicBean"
+          class="by.sergapit.javaspring.ClassicalMusic">
+
     </bean>
 
 </beans>
