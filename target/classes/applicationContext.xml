@@ -11,6 +11,11 @@
     <bean id="musicBean"
           class="by.sergapit.javaspring.ClassicalMusic">
 
+
     </bean>
 
+    <bean id="musicPlayer"
+          class="by.sergapit.javaspring.MusicPlayer">
+        <constructor-arg  ref="musicBean"/>
+    </bean>
 </beans>
