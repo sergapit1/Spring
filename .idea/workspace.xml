@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d9b9f065-e12e-4644-9d29-78eba4bf1443" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590525231559</updated>
       <workItem from="1590525237630" duration="5890000" />
-      <workItem from="1591126302159" duration="569000" />
+      <workItem from="1591126302159" duration="1072000" />
     </task>
     <task id="LOCAL-00001" summary="springg">
       <created>1590526480472</created>
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590531119108</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Dependency Injection3">
+      <created>1591127312199</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591127312199</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +147,8 @@
     <MESSAGE value="spring3" />
     <MESSAGE value="Dependency Injection" />
     <MESSAGE value="Dependency Injection2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection2" />
+    <MESSAGE value="Dependency Injection3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="149" key="#Notifications" timestamp="1590526773296">
@@ -157,26 +167,26 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="265" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1591127306487" />
-    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1590531093979">
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1591127878524">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
-    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1590531093979">
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1591127878524" />
+    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1591127878524">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
-    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1590531093979">
+    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1591127878524" />
+    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1591127878524">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
-    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1590531093979">
+    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1591127878524" />
+    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1591127878524">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1590531123176">
+    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1591127878524" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1591127320702">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1590531123176" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1591127320702" />
     <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1591127186473">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
