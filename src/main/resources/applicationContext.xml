@@ -11,7 +11,8 @@
     <bean id="musicBean"
           class="by.sergapit.javaspring.ClassicalMusic"
           init-method="doMyInit"
-          destroy-method="doMyDestroy">
+          destroy-method="doMyDestroy"
+    factory-method="getClassicalMusic">
 
     </bean>
 
