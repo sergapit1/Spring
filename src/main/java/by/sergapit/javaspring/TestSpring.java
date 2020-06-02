@@ -19,7 +19,7 @@ boolean comporarison = firstMusicPlayer == secondMusicPlayer;
         System.out.println(firstMusicPlayer);
         System.out.println(secondMusicPlayer);
 
-        firstMusicPlayer.setVolume(10);
+        firstMusicPlayer.setVolume(50);
         System.out.println(firstMusicPlayer.getVolume());
         System.out.println(secondMusicPlayer.getVolume());
 
