@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b9f065-e12e-4644-9d29-78eba4bf1443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/by/sergapit/javaspring/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/by/sergapit/javaspring/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/by/sergapit/javaspring/TestSpring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +73,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590525231559</updated>
-      <workItem from="1590525237630" duration="5650000" />
+      <workItem from="1590525237630" duration="5890000" />
+      <workItem from="1591126302159" duration="569000" />
     </task>
     <task id="LOCAL-00001" summary="springg">
       <created>1590526480472</created>
@@ -123,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590529706570</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Dependency Injection2">
+      <created>1590531119108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590531119108</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +137,8 @@
     <MESSAGE value="spring2" />
     <MESSAGE value="spring3" />
     <MESSAGE value="Dependency Injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection" />
+    <MESSAGE value="Dependency Injection2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="149" key="#Notifications" timestamp="1590526773296">
@@ -150,10 +153,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="370" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1590528329485" />
-    <state x="265" y="85" key="CommitChangelistDialog2" timestamp="1590529704439">
+    <state x="265" y="85" key="CommitChangelistDialog2" timestamp="1591127306487">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="265" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1590529704439" />
+    <state x="265" y="85" key="CommitChangelistDialog2/0.0.1280.984@0.0.1280.984" timestamp="1591127306487" />
     <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1590531093979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -170,9 +173,13 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1590531093979" />
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1590529711976">
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1590531123176">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1590529711976" />
+    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1590531123176" />
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1591127186473">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="335" y="314" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1591127186473" />
   </component>
 </project>
