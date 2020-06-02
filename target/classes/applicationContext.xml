@@ -7,14 +7,18 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <context:property-placeholder location="classpath:musicPlayer.properties"/>
-    <bean id="musicBean"
-          class="by.sergapit.javaspring.ClassicalMusic"
-          init-method="doMyInit"
-          destroy-method="doMyDestroy"
-    factory-method="getClassicalMusic">
 
-    </bean>
+    <context:component-scan base-package="by.sergapit.javaspring"/>
+
+
+
+    <!--<context:property-placeholder location="classpath:musicPlayer.properties"/>-->
+    <!--<bean id="musicBean"-->
+    <!--      class="by.sergapit.javaspring.ClassicalMusic"-->
+    <!--      init-method="doMyInit"-->
+    <!--      destroy-method="doMyDestroy"-->
+    <!--factory-method="getClassicalMusic">-->
+    <!--</bean>-->
 
 
     <!-- </bean>-->

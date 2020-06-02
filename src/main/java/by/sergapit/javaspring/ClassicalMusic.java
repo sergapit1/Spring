@@ -1,21 +1,24 @@
 package by.sergapit.javaspring;
 
+import org.springframework.stereotype.Component;
+
+@Component("musicBean")
 public class ClassicalMusic  implements Music{
 
 
-    private ClassicalMusic(){
+   // private ClassicalMusic(){
 
-    }
-    public static ClassicalMusic getClassicalMusic(){
-        return new ClassicalMusic();
-    }
+   // }
+   // public static ClassicalMusic getClassicalMusic(){
+   //     return new ClassicalMusic();
+   // }
 
-    public  void doMyInit(){
-        System.out.println("do my initiolization");
-    }
-    public void doMyDestroy(){
-        System.out.println("do my destraction");
-    }
+   // public  void doMyInit(){
+   //     System.out.println("do my initiolization");
+   // }
+   // public void doMyDestroy(){
+   //     System.out.println("do my destraction");
+   // }
 
 
     @Override
